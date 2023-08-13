@@ -8,6 +8,8 @@ body {
   overflow-x: hidden;
 }
 ul {
+  display: flex;
+  justify-content: center;
   list-style: none;
   text-align: center;
 }
